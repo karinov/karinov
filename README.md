@@ -1,4 +1,4 @@
-# Hi, I'm Zaid! 👋
+# Hi, Zaid here 👋
 
 I am the the founder at **[Karinov.co.id](https://karinov.co.id)**, a small studio behind some cool apps you found on [Google Play](https://play.google.com/store/apps/dev?id=5940759271853961796) and [Chrome Webstore](https://chromewebstore.google.com/detail/1000-bulk-domain-checker/conpmnfdejckodgilmokniimngabbbcd).
 
